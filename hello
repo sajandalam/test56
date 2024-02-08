@@ -2,8 +2,7 @@
 <head>
 <title>my website</title>
 </head>
-<body bgcolor="blue">
-
-hello world welcome in coding
+<body>
+<h2>hello world welcome in coding</h2>
 </body>
 </html>
